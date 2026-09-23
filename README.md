@@ -21,6 +21,13 @@ first incident, not after it.
 - **Cost guardrails** — a provider hard limit and a billing alert *before*
   launch, not after the first surprise invoice.
 
+**Certifications**
+
+- Microsoft Certified: DevOps Engineer Expert — AZ-400 (2021–2023)
+- Microsoft Certified: Azure Administrator Associate (2021–2023)
+- Microsoft Certified: Azure Fundamentals — AZ-900 (2021)
+- Professional Scrum Master I — Scrum.org (2020)
+
 ---
 
 **What I build in the open**
